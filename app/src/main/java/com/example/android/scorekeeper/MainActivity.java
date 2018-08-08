@@ -155,6 +155,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 scoreTeamB = scoreTeamB + 3;
                 displayScoreB(scoreTeamB);
+                
             }
         });
     }
